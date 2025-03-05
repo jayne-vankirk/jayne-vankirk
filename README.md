@@ -1,15 +1,21 @@
+
+
+[<img src="https://github.com/jayne-vankirk/images/blob/main/AboutMe.png" height="150"/>](Education.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Education.png" height="150"/>](Education.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Skills.png" height="150"/>](Education.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Work Experience.png" height="150"/>](Education.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Hobbies.png" height="150"/>](Education.md)
 <a name="top"></a>
 <hr>
 
 ## Welcome! This is a little about me and a sampling of my work.
-[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](Education.md)
 
 <p align="left">
   <img src="https://github.com/jayne-vankirk/images/blob/2c2c7d031e6b7f059bbabb51caee498c0928a00e/65451%20-%20SASE%20National%20Conference%202024.jpeg" width="200">
 </p>
 
-As a data-driven professional, I am committed to harnessing the power of analytics to solve business challenges. With a strong analytical mindset and a passion for technology, I strive to empower small and medium-sized businesses by providing innovative IT solutions that enable smarter decision-making and business growth. I believe in the importance of combining technical expertise with effective communication, ensuring that complex data insights are delivered in an accessible and impactful way.
-
+## About Me
+I am a rising business analytics professional with a diverse background in applying analytics across various business domains, from academic research to corporate operations. I am passionate about leveraging IT solutions to streamline processes and enhance decision-making, with a particular focus on empowering healthcare organizations to improve patient outcomes, optimize operations, and drive data-informed strategies. By integrating technology and analytics, I aim to support healthcare providers in delivering efficient, high-quality care while navigating the complexities of the industry
 
 ## Contact Information
 
@@ -33,13 +39,6 @@ Bachelor of Science Business Administration – Business Information and Analyti
 </ul>
 
 
-# Welcome to My Portfolio!
-
-## About Me
-
-Hello! I'm **Jayne VanKirk**, a Business Information & Analytics student at the University of Denver. I’m passionate about leveraging data and technology to help businesses make informed decisions and streamline their processes. With a strong foundation in data analytics, SQL, Python, and business intelligence tools, I'm excited to pursue opportunities in data analytics and business consulting. I aim to empower small and medium-sized businesses (SMBs) with IT solutions that drive growth and efficiency.
-
-I thrive on solving complex problems and enjoy collaborating with teams to achieve impactful results. Whether through data visualization, predictive modeling, or strategic analysis, my goal is to translate data into actionable insights that lead to tangible business improvements.
 
 ---
 
