@@ -8,7 +8,8 @@
 
 # Education
 
-## University of Denver | BSBA in Business Information & Analytics | Minors in Math and Computer Science
+## University of Denver 
+### BSBA in Business Information & Analytics | Minors in Math and Computer Science
 **Expected Graduation**: June 2025
 
 <ul>
