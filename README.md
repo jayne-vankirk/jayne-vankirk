@@ -1,29 +1,10 @@
-
-
-  <a href="README.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/AboutMe.png" style="flex: 1 1 18%; height: auto;"/>
-  </a>
-  
-  <a href="Education.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/Education.png" style="flex: 1 1 18%; height: auto;"/>
-  </a>
-  
-  <a href="Skills.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/Skills.png" style="flex: 1 1 18%; height: auto;"/>
-  </a>
-  
-  <a href="WorkExp.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/Work%20Experience.png" style="flex: 1 1 18%; height: auto;"/>
-  </a>
-  
-  <a href="Hobbies.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/Hobbies.png" style="flex: 1 1 18%; height: auto;"/>
-  </a>
-
-
+[<img src="https://github.com/jayne-vankirk/images/blob/main/AboutMe.png" height="150"/>](README.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Education.png" height="150"/>](Education.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Skills.png" height="150"/>](Skills.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Work Experience.png" height="150"/>](WorkExp.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Hobbies.png" height="150"/>](Hobbies.md)
+<a name="top"></a>
 <hr>
-
-
 
 ## Welcome! This is a little about me and a sampling of my work.
 
