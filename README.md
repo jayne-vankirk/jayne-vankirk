@@ -1,27 +1,28 @@
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+
 
   <a href="README.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/AboutMe.png" style="max-width: 18%; height: auto;"/>
+    <img src="https://github.com/jayne-vankirk/images/blob/main/AboutMe.png" style="flex: 1 1 18%; height: auto;"/>
   </a>
   
   <a href="Education.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/Education.png" style="max-width: 18%; height: auto;"/>
+    <img src="https://github.com/jayne-vankirk/images/blob/main/Education.png" style="flex: 1 1 18%; height: auto;"/>
   </a>
   
   <a href="Skills.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/Skills.png" style="max-width: 18%; height: auto;"/>
+    <img src="https://github.com/jayne-vankirk/images/blob/main/Skills.png" style="flex: 1 1 18%; height: auto;"/>
   </a>
   
   <a href="WorkExp.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/Work%20Experience.png" style="max-width: 18%; height: auto;"/>
+    <img src="https://github.com/jayne-vankirk/images/blob/main/Work%20Experience.png" style="flex: 1 1 18%; height: auto;"/>
   </a>
   
   <a href="Hobbies.md">
-    <img src="https://github.com/jayne-vankirk/images/blob/main/Hobbies.png" style="max-width: 18%; height: auto;"/>
+    <img src="https://github.com/jayne-vankirk/images/blob/main/Hobbies.png" style="flex: 1 1 18%; height: auto;"/>
   </a>
 
-</div>
+
 <hr>
+
 
 
 ## Welcome! This is a little about me and a sampling of my work.
