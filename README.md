@@ -4,11 +4,13 @@
 ## Welcome! This is a little about me and a sampling of my work.
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](Education.md)
 
-As a data-driven professional, I am committed to harnessing the power of analytics to solve business challenges. With a strong analytical mindset and a passion for technology, I strive to empower small and medium-sized businesses by providing innovative IT solutions that enable smarter decision-making and business growth. I believe in the importance of combining technical expertise with effective communication, ensuring that complex data insights are delivered in an accessible and impactful way.
-
-<p align="center">
+<p align="left">
   <img src="https://github.com/jayne-vankirk/images/blob/2c2c7d031e6b7f059bbabb51caee498c0928a00e/65451%20-%20SASE%20National%20Conference%202024.jpeg" width="200">
 </p>
+
+As a data-driven professional, I am committed to harnessing the power of analytics to solve business challenges. With a strong analytical mindset and a passion for technology, I strive to empower small and medium-sized businesses by providing innovative IT solutions that enable smarter decision-making and business growth. I believe in the importance of combining technical expertise with effective communication, ensuring that complex data insights are delivered in an accessible and impactful way.
+
+
 ## Contact Information
 
 Feel free to reach out to me if you'd like to connect or discuss potential opportunities!
