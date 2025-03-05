@@ -19,3 +19,29 @@ Bachelor of Science Business Administration – Business Information and Analyti
 </ul>
 
 
+# Welcome to My Portfolio!
+
+## About Me
+
+Hello! I'm **Jayne VanKirk**, a Business Information & Analytics student at the University of Denver. I’m passionate about leveraging data and technology to help businesses make informed decisions and streamline their processes. With a strong foundation in data analytics, SQL, Python, and business intelligence tools, I'm excited to pursue opportunities in data analytics and business consulting. I aim to empower small and medium-sized businesses (SMBs) with IT solutions that drive growth and efficiency.
+
+I thrive on solving complex problems and enjoy collaborating with teams to achieve impactful results. Whether through data visualization, predictive modeling, or strategic analysis, my goal is to translate data into actionable insights that lead to tangible business improvements.
+
+---
+
+## Contact Information
+
+Feel free to reach out to me if you'd like to connect or discuss potential opportunities!
+
+- **Email**: [jmvankirk2003@gmail.com](mailto:jmvankirk2003@gmail.com)
+- **LinkedIn**: [linkedin.com/in/jaynevankirk](https://www.linkedin.com/in/jayne-vankirk)
+---
+
+## Personal Brand Statement
+
+As a data-driven professional, I am committed to harnessing the power of analytics to solve business challenges. With a strong analytical mindset and a passion for technology, I strive to empower small and medium-sized businesses by providing innovative IT solutions that enable smarter decision-making and business growth. I believe in the importance of combining technical expertise with effective communication, ensuring that complex data insights are delivered in an accessible and impactful way.
+
+
+---
+
+
