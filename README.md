@@ -2,7 +2,8 @@
 <hr>
 
 ## Welcome! This is a little about me and a sampling of my work.
- [Education](Education.md) 
+[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](Education.md)
+
 
 <a name="Education"></a>
 <hr>
