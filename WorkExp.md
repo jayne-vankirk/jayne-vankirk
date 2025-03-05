@@ -23,6 +23,7 @@ Denver, CO | September 2021 – Present
 - Compiled a 700+ record spreadsheet based on fieldwork cricket collection  
 - Trained in DNA extraction techniques to study reproductive traits in crickets
 
+<img src="https://github.com/jayne-vankirk/images/blob/main/IMG_0951.JPG" height="300"/>
 
 ### Engineering Data Analytics Intern | Daimler Truck North America  
 Portland, OR | June 2024 – September 2024  
