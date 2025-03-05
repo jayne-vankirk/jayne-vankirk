@@ -4,7 +4,7 @@
 ## Welcome! This is a little about me and a sampling of my work.
  [Education](education.md) 
 
-<a name="education"></a>
+<a name="Education"></a>
 <hr>
 
 ## Education
