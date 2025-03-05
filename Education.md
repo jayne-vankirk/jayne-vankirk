@@ -25,10 +25,6 @@
   - Learned database design, normalization, and SQL query writing for data manipulation. Applied these skills in both academic and professional settings to retrieve and analyze data from relational databases.
   - Key Concepts: Database design, SQL queries (Joins, Aggregations, Subqueries), database optimization, normalization.
 
-- **Cloud Computing & Data Storage**: 
-  - Gained a foundational understanding of cloud technologies, focusing on AWS and Google Cloud platforms. Learned how to manage cloud resources and store data efficiently in the cloud.
-  - Key Concepts: Cloud infrastructure, cloud storage, data security, AWS services, Google Cloud platform.
-
 - **Introduction to Machine Learning**:
   - Covered the basics of supervised and unsupervised learning, including algorithms like linear regression, decision trees, and clustering techniques. Applied these methods to real-world datasets for predictive analytics.
   - Key Concepts: Supervised learning, unsupervised learning, decision trees, k-means clustering, model evaluation.
