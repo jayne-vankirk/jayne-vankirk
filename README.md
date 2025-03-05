@@ -2,7 +2,7 @@
 <hr>
 
 ## Welcome! This is a little about me and a sampling of my work.
- [Education](education.md) 
+ [Education](Education.md) 
 
 <a name="Education"></a>
 <hr>
