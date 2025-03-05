@@ -18,6 +18,8 @@
   <li><b>Aegon Transamerica Foundation Scholarship</b>: This is awarded to Daniels students who have high grades and achievements in their major.</li>
 </ul>
 
+<img src="https://github.com/jayne-vankirk/images/blob/main/E9B1EC00-30AD-4648-9C24-E1707A12E96B_1_105_c.jpeg" height="300"/>
+
 
 ### Key Courses and What I Learned:
 
