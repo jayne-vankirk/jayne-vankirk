@@ -6,7 +6,7 @@
 
 As a data-driven professional, I am committed to harnessing the power of analytics to solve business challenges. With a strong analytical mindset and a passion for technology, I strive to empower small and medium-sized businesses by providing innovative IT solutions that enable smarter decision-making and business growth. I believe in the importance of combining technical expertise with effective communication, ensuring that complex data insights are delivered in an accessible and impactful way.
 
-![Picture of Jayne VanKirk](images/65451 - SASE National Conference 2024.jpeg)
+![Picture of Jayne VanKirk]([images/65451 - SASE National Conference 2024.jpeg](https://github.com/jayne-vankirk/images/blob/2c2c7d031e6b7f059bbabb51caee498c0928a00e/65451%20-%20SASE%20National%20Conference%202024.jpeg)
 ## Contact Information
 
 Feel free to reach out to me if you'd like to connect or discuss potential opportunities!
