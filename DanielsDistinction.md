@@ -1,8 +1,35 @@
-[<img src="https://github.com/jayne-vankirk/images/blob/main/AboutMe.png" height="150"/>](README.md)
-[<img src="https://github.com/jayne-vankirk/images/blob/main/Education.png" height="150"/>](Education.md)
-[<img src="https://github.com/jayne-vankirk/images/blob/main/Skills.png" height="150"/>](Skills.md)
-[<img src="https://github.com/jayne-vankirk/images/blob/main/Work Experience.png" height="150"/>](WorkExp.md)
-[<img src="https://github.com/jayne-vankirk/images/blob/main/Hobbies.png" height="150"/>](Hobbies.md)
-[<img src="https://github.com/jayne-vankirk/images/blob/main/DanielsDistinction.png" height="150"/>](DanielsDistinction.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/AboutMe.png" height="125"/>](README.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Education.png" height="125"/>](Education.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Skills.png" height="125"/>](Skills.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Work Experience.png" height="125"/>](WorkExp.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/Hobbies.png" height="125"/>](Hobbies.md)
+[<img src="https://github.com/jayne-vankirk/images/blob/main/DanielsDistinction.png" height="125"/>](DanielsDistinction.md)
 <a name="top"></a>
 <hr>
+
+# Daniels Distinction Portfolio
+
+## Communication and Interpersonal Effectiveness
+My communication skills have been shaped by various hands-on experiences. From student-athlete tutoring to my internship in an engineering department at Daimler Truck North America, I have successfully adapted my communication style to suit different learning preferences, experience levels, and knowledge in the area. 
+
+As a student-athlete tutor, I worked one-on-one with student-athletes to support their academic success in classes like INFO 3140. This past summer, I collaborated with cross-functional teams as an Engineering Data Analytics Intern at Daimler Truck North America. In this role, I worked alongside engineers and business stakeholders to develop interactive Tableau dashboards, which required translating complex data insights into clear, actionable visuals. Whether presenting to a technical team or communicating with a peer, I’ve learned how to communicate effectively to move ideas forward and make an impact.
+
+<img src="https://github.com/jayne-vankirk/images/blob/main/022567CA-A73A-4C54-B875-1D60A0C9EA7E_1_105_c.jpeg" height="300"/>
+
+## Community Engagement and Leadership
+Community engagement has been one of the most rewarding parts of my college experience. Not just for what I’ve learned, but for the opportunity to help others succeed and contribute to causes bigger than myself. In my junior year, I was a peer mentor for Equity in STEM. I directly supported two first-year students navigating the challenges of rigorous academic programs while being from an underrepresented community. I met with them regularly to provide guidance, share resources, and create a supportive environment that encouraged persistence in STEM fields. This role has taught me the value of showing up consistently for others and the impact of small actions on someone’s academic journey.
+
+Currently, I serve as the Logistics Chair for the Society of Asian Scientists and Engineers (SASE), where I coordinate events and organize travel for our national conference. This role has helped me build leadership and organizational skills while contributing to an inclusive space for professional and cultural development.
+
+In addition to these leadership positions, I have worked as a research assistant in a biology lab on campus since my freshman. The lab primarily looks at the evolution of reproductive traits through cricket populations. While the work was rooted in biology, I was able to apply my background in data analytics by helping with database organization, data visualization R, and contributing to the overall research process. It was a unique opportunity to bridge disciplines and support meaningful scientific work using my own technical strengths. Across all of these experiences, I’ve learned how to lead with empathy, collaborate across fields, and contribute to the public good in both academic and community settings.
+
+## Critical Thinking
+
+## Ethical Decision Making
+Ethical decision-making is a cornerstone of strong leadership. Through the Daniels curriculum, I participated in the Ethics Bootcamp. This was a two-day intensive event where community leaders shared real-world examples of ethical dilemmas in today’s business world. Attending as a sophomore gave me valuable insight into how ethical choices shape businesses and communities. Currently, I’m further developing this lens through my Business for the Public Good course, where we’re exploring the role of Environmental, Social, and Governance (ESG) principles in shaping responsible business practices. These experiences have shown me the importance of considering all stakeholders and thinking beyond short-term outcomes, and they continue to guide the way I approach both academic and professional challenges with integrity.
+
+
+## Global/Intercultural Competence
+My commitment to developing global competence goes beyond simply exploring different cultures. I strive to understand the real-world challenges people face across borders and languages. Taking two-quarters of Spanish gave me a deeper appreciation for the barriers non-English speakers experience in the U.S., especially in academic and professional environments. It opened my eyes to the importance of inclusive communication and the need for patience and empathy in our increasingly globalized world. Currently, I’m enrolled in an International Politics course, which has further expanded my understanding of how global systems interact and influence each other. Through studying political dynamics, international relations, and cultural perspectives, I’ve gained a broader worldview. This will help me approach business decisions and team collaboration with curiosity, respect, and a commitment to equity. These experiences have helped me recognize that diverse voices and backgrounds are not only valuable but essential in solving today’s complex problems.
+
+## Technical Knowledge
