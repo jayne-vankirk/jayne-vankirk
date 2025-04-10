@@ -37,6 +37,9 @@ My commitment to developing global competence goes beyond simply exploring diffe
 
 ## Technical Knowledge
 
+<img src="https://github.com/jayne-vankirk/images/blob/main/The Solution to Solving the Organ Shortage.png" height="300"/>
+For one of my Data Management and Analysis projects, I had to create an infographic using data and statistics to compel a reader to action. <a href="https://jayne-vankirk.github.io/BIA/Infographic.pdf" target="_blank">The Solution to Solving the Organ Shortage </a> gives the audience clear facts, why they should care about this worldwide issue, and what they can do to help solve it.
+
 <img src="https://github.com/jayne-vankirk/images/blob/main/TopicModeling.png" height="300"/>
 For my <a href="https://jayne-vankirk.github.io/BIA/Complex_Data_Final_Project.pdf" target="_blank">Complex Data Analytics Final Project</a>, we used an Amazon Reviews dataset and performed various text analyses. Our analysis using topic modeling revealed the most relevant terms for prevalent topics in the reviews.
 
