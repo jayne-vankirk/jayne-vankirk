@@ -37,14 +37,19 @@ My commitment to developing global competence goes beyond simply exploring diffe
 
 ## Technical Knowledge
 
+My academic journey at Daniels has equipped me with a robust technical skillset. Through courses such as Foundations of Information Management, Enterprise Information Systems, and Data Mining and Visualization, I have gained hands-on experience with industry-standard tools and programming languages. I’m proficient in Python, SQL, and R, and using development environments like JupyterLab, Visual Studio Code, and RStudio to solve complex data problems. Additionally, I’ve applied these skills to real-world projects—from building interactive dashboards in Tableau to developing regression models—allowing me to transform data into actionable insights. This blend of technical and analytical expertise prepares me for solving diverse business challenges. The following projects are a few that I have worked on throughout my time at Daniels that show off the application of my skills. 
+
 <img src="https://github.com/jayne-vankirk/images/blob/main/The Solution to Solving the Organ Shortage.png" height="300"/>
 For one of my Data Management and Analysis projects, I had to create an infographic using data and statistics to compel a reader to action. <a href="https://jayne-vankirk.github.io/BIA/Infographic.pdf" target="_blank">The Solution to Solving the Organ Shortage </a> gives the audience clear facts, why they should care about this worldwide issue, and what they can do to help solve it.
+
 
 <img src="https://github.com/jayne-vankirk/images/blob/main/TopicModeling.png" height="300"/>
 For my <a href="https://jayne-vankirk.github.io/BIA/Complex_Data_Final_Project.pdf" target="_blank">Complex Data Analytics Final Project</a>, we used an Amazon Reviews dataset and performed various text analyses. Our analysis using topic modeling revealed the most relevant terms for prevalent topics in the reviews.
 
+
 <img src="https://github.com/jayne-vankirk/images/blob/main/SportsAnalytics.png" height="300"/>
 For my <a href="https://jayne-vankirk.github.io/BIA/Sports_Analytics_Final_Blog_VanKirk.html" target="_blank">Sports Analytics Final Project</a>, I wanted to determine if high team performance is correlated with larger attendance for the 2023 NBA season. I coded a regression model in R to look at team statistics to predict average home attendance for games. 
+
 
 <img src="https://github.com/jayne-vankirk/images/blob/main/OptimizationModeling.png" height="300"/>
 For my <a href="https://jayne-vankirk.github.io/BIA/Optimization_Final_Project.html" target="_blank">Optimization Modeling Final Project</a>, I had to choose the optimal lineup of a fantasy football team in order to maximize fantasy football points. I coded the problem in Python and the graph shows the comparison of total fantasy points based on the four strategies I used to create the models.
