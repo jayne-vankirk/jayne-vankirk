@@ -9,6 +9,8 @@
 
 # Daniels Distinction Portfolio
 
+<img src="https://github.com/jayne-vankirk/images/blob/main/du-daniels-logo-horizontal-2-clr-cmyk.jpg" height="100"/>
+
 ## Communication and Interpersonal Effectiveness
 My communication skills have been shaped by various hands-on experiences. From student-athlete tutoring to my internship in an engineering department at Daimler Truck North America, I have successfully adapted my communication style to suit different learning preferences, experience levels, and knowledge in the area. 
 
@@ -43,7 +45,7 @@ My commitment to developing global competence goes beyond simply exploring diffe
 
 My academic journey at Daniels has equipped me with a robust technical skillset. Through courses such as Foundations of Information Management, Enterprise Information Systems, and Data Mining and Visualization, I have gained hands-on experience with industry-standard tools and programming languages. I’m proficient in Python, SQL, and R, and using development environments like JupyterLab, Visual Studio Code, and RStudio to solve complex data problems. Additionally, I’ve applied these skills to real-world projects—from building interactive dashboards in Tableau to developing regression models—allowing me to transform data into actionable insights. This blend of technical and analytical expertise prepares me for solving diverse business challenges. The following projects are a few that I have worked on throughout my time at Daniels that show off the application of my skills. 
 
-<img src="https://github.com/jayne-vankirk/images/blob/main/The Solution to Solving the Organ Shortage.png" height="300"/>
+<img src="https://github.com/jayne-vankirk/images/blob/main/The Solution to Solving the Organ Shortage.png" height="500"/>
 For one of my Data Management and Analysis projects, I had to create an infographic using data and statistics to compel a reader to action. <a href="https://jayne-vankirk.github.io/BIA/Infographic.pdf" target="_blank">The Solution to Solving the Organ Shortage </a> gives the audience clear facts, why they should care about this worldwide issue, and what they can do to help solve it.
 
 
