@@ -36,3 +36,12 @@ Ethical decision-making is a cornerstone of strong leadership. Through the Danie
 My commitment to developing global competence goes beyond simply exploring different cultures. I strive to understand the real-world challenges people face across borders and languages. Taking two-quarters of Spanish gave me a deeper appreciation for the barriers non-English speakers experience in the U.S., especially in academic and professional environments. It opened my eyes to the importance of inclusive communication and the need for patience and empathy in our increasingly globalized world. Currently, I’m enrolled in an International Politics course, which has further expanded my understanding of how global systems interact and influence each other. Through studying political dynamics, international relations, and cultural perspectives, I’ve gained a broader worldview. This will help me approach business decisions and team collaboration with curiosity, respect, and a commitment to equity. These experiences have helped me recognize that diverse voices and backgrounds are not only valuable but essential in solving today’s complex problems.
 
 ## Technical Knowledge
+
+<img src="https://github.com/jayne-vankirk/images/blob/main/TopicModeling.png" height="300"/>
+For my Complex Data Analytics group final project, we used an Amazon Reviews dataset and performed various text analyses. Our analysis using topic modeling revealed the most relevant terms for prevalent topics in the reviews.
+
+<img src="https://github.com/jayne-vankirk/images/blob/main/SportsAnalytics.png" height="300"/>
+For my <a href="https://github.com/jayne-vankirk/BIA/Sports_Analytics_Final_Blog_VanKirk.html" target="_blank">Sports Analytics Final Project</a>, I wanted to determine if high team performance is correlated with larger attendance for the 2023 NBA season. I coded a regression model in R to look at team statistics to predict average home attendance for games. 
+
+<img src="https://github.com/jayne-vankirk/images/blob/main/OptimizationModeling.png" height="300"/>
+For my <a href="https://github.com/jayne-vankirk/BIA/Sports_Analytics_Final_Blog_VanKirk.html" target="_blank">Optimization Modeling Final Project</a>, I had to choose the optimal lineup of a fantasy football team in order to maximize fantasy football points. I coded the problem in Python and the graph shows the comparison of total fantasy points based on the four strategies I used to create the models.
