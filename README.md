@@ -14,7 +14,7 @@
 </p>
 
 ## About Me
-I am a rising business analytics professional with a diverse background in applying analytics across various business domains, from academic research to corporate operations. I am passionate about leveraging IT solutions to streamline processes and enhance decision-making, with a particular focus on empowering healthcare organizations to improve patient outcomes, optimize operations, and drive data-informed strategies. By integrating technology and analytics, I aim to support healthcare providers in delivering efficient, high-quality care while navigating the complexities of the industry
+I am a rising business analytics professional with a diverse background in applying analytics across various business domains, from academic research to corporate operations. I am passionate about leveraging IT solutions to streamline processes and enhance decision-making.
 
 ## Contact Information
 
